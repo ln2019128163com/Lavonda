@@ -368,7 +368,7 @@ button {
     width: 63%;
     margin: 0 auto;
     font-size: 16px;
-    color: #ffffff;
+    color: #fdfdfd;
     text-align: center;
 }
 
@@ -500,10 +500,10 @@ button {
 .about_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 30px;
     color: #1f1f1f;
     margin: 0px;
-    padding-top: 40px;
+    padding-top: 30px;
 }
 
 .readmore_bt {
@@ -711,7 +711,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #085a57;
+    color: hsl(198, 96%, 45%);
     font-weight: bold;
     text-transform: uppercase;
     text-align: left;
@@ -981,7 +981,7 @@ button {
 }
 
 .call_text a {
-    color: #ffffff;
+    color: #000000;
 }
 
 .call_text a:hover {
